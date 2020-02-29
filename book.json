@@ -1,0 +1,11 @@
+{
+    "author" : "Nick Cai",
+    "description" : "Javascript教程",
+    "language" : "zh-CN",
+    "links" : {
+        "sidebar" : {
+            "GitHub" : "https://github.com/nicksdream/javascript-tutorial"
+        }
+    },
+    "title" : "Javascript教程"  
+}
